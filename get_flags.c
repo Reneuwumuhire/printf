@@ -1,4 +1,4 @@
-#include "main.hi"
+#include "main.h"
 
 /**
  * get_flags - Calculates active flags
