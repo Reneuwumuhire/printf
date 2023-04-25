@@ -59,5 +59,5 @@ Conversion specifiers to handle: d, i, u, o, x, X
 
 15. All the above options work well together.
 
-#Authors
-##Ikrame Cherkaoui and Rene Uwumuhire
+# Authors
+## Ikrame Cherkaoui and Rene Uwumuhire
